@@ -26,10 +26,6 @@ The development server will be running on http://localhost:3000.
 
  You can deploy the production build to any web hosting provider.
 
- ## Usage
-
-  To use the project, simply open the index.html file in a web browser.
-
 ## Features
 
 Styled Components: CSS-in-JS library for styling React components.
